@@ -104,4 +104,3 @@ func NewConfig(fileAbsPath string) (*Config, error) {
 	e = json.Unmarshal(bytes, cfg)
 	return cfg, e
 }
-

@@ -1,4 +1,4 @@
-# GoInk
+# Ink
 simple go web framework.
 ### Sample
 ```
